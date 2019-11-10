@@ -1,5 +1,3 @@
-![1](https://user-images.githubusercontent.com/38766899/63697912-77754f80-c826-11e9-922a-a01676675b84.png)
-
 # Most-powerful proxy feeder
 This is a simple tool that will help you to find active (anonymous,elite,Transparent ect) proxies that will help you in different stuffs.
 
@@ -13,7 +11,7 @@ just lets make life easier, take a beer and relax
 
 
 ## ⭕️ Getting Started
-git clone https://github.com/mRanonyMousTZ/proxy-feeder.git
+git clone 
 
 cd proxy-feeder
 
@@ -29,7 +27,6 @@ python proxy-feeder.py
 
 ENJOY.
 
-![proxy-feeder](https://user-images.githubusercontent.com/38766899/63697272-40eb0500-c825-11e9-911d-8e6880eaa348.png)
 
 
 
