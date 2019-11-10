@@ -11,7 +11,7 @@ just lets make life easier, take a beer and relax
 
 
 ## ⭕️ Getting Started
-git clone 
+git clone https://github.com/sabri-zaki/PROXY_FINDER
 
 cd proxy-feeder
 
