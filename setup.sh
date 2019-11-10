@@ -25,10 +25,10 @@ echo ""
 
 
 
-echo "================ LETS START INSTALLING SOME ESSENTIAL STUFFS ===================="
+echo "===== LETS START INSTALLING SOME ESSENTIAL STUFFS ====="
 
-echo "==========================  PROXY-FINDER SETUP ========================"
- echo -e " $RESET****************  SABRI ZAKI*****************"                           
+echo "====== PROXY-FINDER SETUP ======"
+ echo -e " $RESET******  SABRI ZAKI ******"                           
 
 
 sleep 2
@@ -43,13 +43,13 @@ read Y
 if [ "$Y" ];
 then
 	apt-get update
-    apt-get upgrade
+        apt-get upgrade
 	apt-get install git
 	apt-get install python2
 	pip2 install requests
 	pip2 install bs4
-	
-	
+        cd 
+        chmod +x PROXY_FINDER/*
 sleep 6
 	
 echo -e "$RESET YOUR READY TO GO, FIRE UP A TOOL "
