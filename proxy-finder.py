@@ -39,12 +39,9 @@ t = threading.Thread(target=animate)
 t.start()
 
  
-time.sleep(10)
 done = True
 
 print ""+Purple+"---> I FOUND THESE......."
-
-time.sleep(3)
 
 
 print""+Blue+""
